@@ -1,0 +1,10 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(499,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
+  dllmain.cpp
+E:\Learn\Crack\driver_learn\CE_Driver\CE_Help\dllmain.cpp(94,8): warning C4311: “类型强制转换”: 从“HANDLE”到“INT”的指针截断
+E:\Learn\Crack\driver_learn\CE_Driver\CE_Help\dllmain.cpp(94,8): warning C4302: “类型强制转换”: 从“HANDLE”到“INT”截断
+E:\Learn\Crack\driver_learn\CE_Driver\CE_Help\dllmain.cpp(119,8): warning C4311: “类型强制转换”: 从“HANDLE”到“INT”的指针截断
+E:\Learn\Crack\driver_learn\CE_Driver\CE_Help\dllmain.cpp(119,8): warning C4302: “类型强制转换”: 从“HANDLE”到“INT”截断
+  Driver_Help.cpp
+  Hook_Api.cpp
+  正在生成代码...
+  CE_Help.vcxproj -> E:\Learn\Crack\driver_learn\cheatengine_sys\win64\dbghelp.dll

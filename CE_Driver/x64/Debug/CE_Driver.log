@@ -1,0 +1,16 @@
+﻿  Building 'CE_Driver' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Driver.c
+E:\Learn\Crack\driver_learn\CE_Driver\Driver.c(145,32): warning C4996: 'ExAllocatePool': 被声明为已否决
+E:\Learn\Crack\driver_learn\CE_Driver\Driver.c(151,18): warning C4996: 'ExAllocatePool': 被声明为已否决
+E:\Learn\Crack\driver_learn\CE_Driver\Driver.c(155,18): warning C4996: 'ExAllocatePool': 被声明为已否决
+E:\Learn\Crack\driver_learn\CE_Driver\Driver.c(312,68): warning C4047: “函数”:“PSIZE_T”与“LPVOID *”的间接级别不同
+E:\Learn\Crack\driver_learn\CE_Driver\Driver.c(312,63): warning C4024: “ZwAllocateVirtualMemory”: 形参和实参 4 的类型不同
+E:\Learn\Crack\driver_learn\CE_Driver\Driver.c(275,27): warning C4996: 'ExAllocatePool': 被声明为已否决
+E:\Learn\Crack\driver_learn\CE_Driver\Driver.c(310,1): warning C4047: “初始化”:“LPVOID”与“SIZE_T”的间接级别不同
+E:\Learn\Crack\driver_learn\CE_Driver\Driver.c(335,39): warning C4996: 'ExAllocatePool': 被声明为已否决
+  SSTD_.c
+  正在生成代码...
+  CE_Driver.vcxproj -> E:\Learn\Crack\driver_learn\CE_Driver\x64\Debug\CE_Driver.sys
+  Done Adding Additional Store
+  Successfully signed: E:\Learn\Crack\driver_learn\CE_Driver\x64\Debug\CE_Driver.sys
+  
